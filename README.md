@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ayalajair
+- 👀 I’m interested in upload all my proyects here
+- 🌱 I’m currently learning html5 css3 and javascript
+- 📫 How to reach me: ayalajair@gmail.com
