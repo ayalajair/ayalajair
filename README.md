@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayalajair
-- 👀 I’m interested in upload all my proyects here
-- 🌱 I’m currently learning html5 css3 and javascript
+- 👋 Hi, I’m Ayala Jair
+- 👀 I am going to use this place to upload all the projects that I am doing in the different courses
+- 🌱 I’m currently learning html5 css3 and javascript and a i will use this place to upload all the projects
 - 📫 How to reach me: ayalajair@gmail.com
